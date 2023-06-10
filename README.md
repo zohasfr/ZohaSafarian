@@ -4,7 +4,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zohasfr97@gmail.com)
 [![Github](https://img.shields.io/github/followers/zohasfr?label=Follow&style=social)](https://github.com/zohasfr)
 
-
+ - 💻 Highly skilled in deep learning, machine learning, regression, time-series analytics, and natural language processing with the ability to quickly learn and adopt new skills and technologies. 
+ - 📫 How to reach me: zohasfr97@gmail.com
+ 
 ### 🖥 Skills
 
 - Machine Learning
